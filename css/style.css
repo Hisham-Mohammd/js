@@ -1,0 +1,31 @@
+.text1 h1{
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.text1 p{
+
+    font-size: 35px;
+    font-weight: 500 ;
+
+
+}
+.text1 button {
+
+    background-color: rgb(0, 38, 255);
+    padding: 3% 10%;
+    
+   
+    
+    
+
+
+}
+.text1 button:hover{
+    background-color:#008000 ;
+     cursor: default;
+    
+}
+.rem{
+    font-size: 35px;
+}
